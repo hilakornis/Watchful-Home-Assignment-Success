@@ -1,0 +1,299 @@
+account_teams_enabled : false
+
+ads_companion_enabled : false
+
+af_ui_chirp_enabled : false
+
+af_ui_typeface_override_disabled : false
+
+af_ui_vdl_m2_remove_timeline_module_dividers_enabled : false
+
+android_adaptive_tweet_images_enabled : false
+
+android_animated_reply_icon_enabled : false
+
+android_async_inflation_enabled : false
+
+android_audio_avatar_discovery_api_enabled : false
+
+android_audio_room_creation_enabled : false
+
+android_audio_room_nux_tooltips : false
+
+android_audio_share_listening_with_followers_setting_enabled : false
+
+android_audio_space_amplitude_enabled : false
+
+android_audio_spaces_device_follow_api_enabled : false
+
+android_audio_spaces_device_follow_user_api_enabled : false
+
+android_audio_spaces_tab_enabled : false
+
+android_audio_stations_tab_enabled : false
+
+android_audio_tweets_consumption_enabled : false
+
+android_audio_voice_info_consumption_enabled : false
+
+android_behavioral_events_hierarchy_context_bundle_enabled : false
+
+android_collect_database_perf_metrics : false
+
+android_disable_offline_retries : false
+
+android_dtime_custom_timelines_enabled : false
+
+android_error_reporter_cursor_window_refill_enabled : false
+
+android_global_navigation_spaces_communities_in_dash : false
+
+android_graphql_home_timeline_enabled : false
+
+android_growth_performance_holdback_lazy_initialization_enabled : true
+
+android_growth_performance_holdback_perf_ally_tweet_view_binder_enabled : false
+
+android_growth_performance_holdback_perf_constraint_barriers_enabled : false
+
+android_growth_performance_holdback_perf_delay_quote_view_inflation_enabled : false
+
+android_growth_performance_holdback_perf_optimize_badge_views : false
+
+android_growth_performance_holdback_perf_user_image_view_enabled : false
+
+android_growth_performance_holdback_should_avoid_htl_rv_prefetching : false
+
+android_modern_dash_connect_item_enabled : false
+
+android_modern_dash_new_ui_enabled : false
+
+android_network_forecast_improvement_enabled : false
+
+android_ntab_timeline_modules_enabled : false
+
+android_optimize_position_restoration_lookup : false
+
+android_pct_enabled : false
+
+android_promoted_log_timestamp_enabled : false
+
+android_recycler_view_scope_release_enabled : false
+
+android_tweet_promote_button_enabled : false
+
+android_tweets_text_only_enabled : false
+
+android_urt_geo_enabled : false
+
+android_urt_request_home_timeline_debug_sanitization_enabled : true
+
+android_user_blob_read : false
+
+android_user_blob_write : false
+
+app_rating_prompt_enable : false
+
+app_rating_prompt_show_now : false
+
+birdwatch_consumption_enabled : false
+
+branded_like_preview_enabled : false
+
+c9s_enabled : false
+
+chrome_custom_tabs_android_enabled : true
+
+connect_to_periscope_deprecated : false
+
+consideration_lonely_birds_good_impression_android_share_at_end_enabled : false
+
+consideration_sso_fetch_user_connections : false
+
+contextv2_plus_projectnah_context_enabled : false
+
+conversational_replies_android_author_label_avatar_enabled : false
+
+conversational_replies_android_liked_by_author_enabled : false
+
+convo_units_enabled : false
+
+creator_android_nft_avatar_gql_include_enabled : false
+
+creator_android_nft_avatar_http_include_enabled : false
+
+creator_image_preserve_circle_rounding_strategy : false
+
+creator_monetization_dashboard_enabled : false
+
+creatorsde_collab_api_enabled : false
+
+creatorsde_collab_consume_enabled : false
+
+dash_region_specific_de_media_transparency_items_enabled : false
+
+dm_conversations_nsfw_media_filter_enabled : false
+
+dont_mention_me_view_api_enabled : false
+
+double_tap_to_like_enabled : false
+
+double_tap_to_like_user_setting_enabled : false
+
+edge_to_edge_parsability_enabled : false
+
+edit_tweet_api_enabled : false
+
+edit_tweet_enabled : false
+
+follow_oon_tweet_avatar_button_enabled : false
+
+fresco_cached_image_loading : false
+
+graphql_unified_card_enabled : false
+
+home_timeline_dup_tweet_against_impression_cache_enabled : false
+
+home_timeline_engagement_nudge_enabled : false
+
+home_timeline_engagement_nudge_safety_switch_enabled : false
+
+home_timeline_extended_reactivity_tweet_clicks_enabled : false
+
+home_timeline_feedback_immediate_dismiss_enabled : false
+
+home_timeline_first_position_ad_prevention_enabled : false
+
+home_timeline_hoisting_viewport_aware : false
+
+home_timeline_latest_timeline_switch_enabled : false
+
+home_timeline_performance_zipkin_pct_metadata_enabled : false
+
+home_timeline_scroll_framerate_enabled : false
+
+home_timeline_spheres_pinned_lists_backend_storage_enabled : false
+
+home_timeline_spheres_pinned_lists_backend_storage_migration_enabled : false
+
+home_timeline_start_at_top_uprank_unseen_tweets_enabled : false
+
+home_timeline_sticky_new_tweets_pill_all_enabled : false
+
+home_timeline_tweet_auto_inline_reply_enabled : false
+
+image_cache_instrumentation_enabled : false
+
+include_blocked_by_and_blocking_in_requests_enabled : false
+
+interactive_text_enabled : false
+
+livepipeline_client_enabled : true
+
+livepipeline_tweetengagement_enabled : true
+
+media_edge_to_edge_content_enabled : false
+
+media_minimal_image_crop_enabled : false
+
+mixed_media_consumption_enabled : false
+
+mobile_professional_launchpad_webview_enabled : false
+
+nudges_android_article_nudge_news_domains_list_cache_enabled : false
+
+onboarding_username_association_setting_android_enabled : false
+
+photo_trace_enabled : false
+
+photo_wait_time_enabled : false
+
+reactions_android_backend_enabled : false
+
+reactions_android_enabled : false
+
+reply_voting_android_enabled : false
+
+reply_voting_android_position_before_favorite_enabled : false
+
+report_flow_id_enabled : false
+
+responsive_web_delegate_enabled : false
+
+sc_r4_enabled : false
+
+scribe_client_network_request_enabled : false
+
+settings_config_gdpr_consistency : false
+
+show_alt_text_and_icon : false
+
+signupless_force_signupless : false
+
+signupless_include_user_type : false
+
+soft_interventions_inner_qt_forward_pivot_enabled : false
+
+subscriptions_enabled : false
+
+subscriptions_gating_bypass : false
+
+subscriptions_product_feature_list_api_enabled : false
+
+super_follow_user_api_enabled : false
+
+sync_blocked_users_enabled : false
+
+timeline_live_banner_v2_enabled : false
+
+timeline_multibinding_itembinders_enabled : false
+
+timeline_reactivity_enabled : false
+
+timeline_request_scribe_sample : false
+
+timelines_error_view_enabled : false
+
+timelines_translate_enabled : false
+
+topic_follow_prompt_enabled : false
+
+topics_dash_item_enabled : false
+
+toxic_reply_filter_inline_callout_enabled : false
+
+trusted_friends_api_enabled : false
+
+trusted_friends_dash_discovery_enabled : false
+
+tweet_click_coordinates_enabled : false
+
+tweet_click_coordinates_organic_cards_enabled : false
+
+tweet_click_coordinates_promoted_only_enabled : false
+
+tweet_detail_social_proof_show_on_all_timeline_entities : false
+
+tweet_details_monetization_enabled : false
+
+tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled : false
+
+tweet_with_visibility_results_prefer_gql_tweet_interstitials_enabled : false
+
+unified_cards_component_commerce_drop_details_enabled : false
+
+unified_cards_dpa_ignore_single_slide_mdc_tweet_android : false
+
+unified_cards_follow_card_consumption_enabled : false
+
+unified_cards_product_explorer_android_model_prefetching_enabled : false
+
+urt_message_prompt_android_enabled : false
+
+vibe_api_enabled : false
+
+vibe_tweet_context_enabled : false
+
+view_counts_everywhere_api_enabled : false
+
+wifi_only_mode : false
