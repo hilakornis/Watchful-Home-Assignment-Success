@@ -1,0 +1,1220 @@
+Spawning `com.twitter.android`...
+Instrumenting...
+JSONObject.$init: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\_init.js"
+JSONObject.numberToString: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\numberToString.js"
+JSONObject.quote: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\quote.js"
+JSONObject.wrap: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\wrap.js"
+JSONObject.accumulate: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\accumulate.js"
+JSONObject.append: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\append.js"
+JSONObject.checkName: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\checkName.js"
+JSONObject.get: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\get.js"
+JSONObject.getBoolean: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\getBoolean.js"
+JSONObject.getDouble: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\getDouble.js"
+JSONObject.getInt: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\getInt.js"
+JSONObject.getJSONArray: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\getJSONArray.js"
+JSONObject.getJSONObject: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\getJSONObject.js"
+JSONObject.getLong: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\getLong.js"
+JSONObject.getString: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\getString.js"
+JSONObject.has: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\has.js"
+JSONObject.isNull: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\isNull.js"
+JSONObject.keySet: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\keySet.js"
+JSONObject.keys: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\keys.js"
+JSONObject.length: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\length.js"
+JSONObject.names: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\names.js"
+JSONObject.opt: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\opt.js"
+JSONObject.optBoolean: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\optBoolean.js"
+JSONObject.optDouble: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\optDouble.js"
+JSONObject.optInt: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\optInt.js"
+JSONObject.optJSONArray: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\optJSONArray.js"
+JSONObject.optJSONObject: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\optJSONObject.js"
+JSONObject.optLong: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\optLong.js"
+JSONObject.optString: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\optString.js"
+JSONObject.put: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\put.js"
+JSONObject.putOpt: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\putOpt.js"
+JSONObject.remove: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\remove.js"
+JSONObject.toJSONArray: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\toJSONArray.js"
+JSONObject.toString: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\toString.js"
+JSONObject.writeTo: Loaded handler at "C:\\Users\\hilak\\OneDrive\\\u05de\u05e1\u05de\u05db\u05d9\u05dd\\Watchful Technologies\\Home Assignment\\Scripts\\python and javascript hw\\__handlers__\\org.json.JSONObject\\writeTo.js"
+Started tracing 35 functions. Press Ctrl+C to stop.
+           /* TID 0x698a */
+   517 ms  JSONObject.$init("{\"settings_version\":3,\"cache_duration\":193013,\"features\":{\"collect_logged_exceptions\":true,\"collect_reports\":true,\"collect_analytics\":false,\"prompt_enabled\":false,\"push_enabled\":false,\"firebase_crashlytics_enabled\":false,\"collect_anrs\":true,\"collect_metric_kit\":false,\"collect_build_ids\":true},\"app\":{\"status\":\"activated\",\"update_required\":false,\"report_upload_variant\":2,\"native_report_upload_variant\":2},\"fabric\":{\"org_id\":\"504a5614d9479e6b6c000011\",\"bundle_id\":\"com.twitter.android\"},\"on_demand_upload_rate_per_minute\":10,\"on_demand_backoff_base\":1.2,\"on_demand_backoff_step_duration_seconds\":60,\"app_quality\":{\"sessions_enabled\":true,\"sampling_rate\":1,\"session_timeout_seconds\":1800},\"expires_at\":1717367265596}")
+   517 ms  JSONObject.getInt("settings_version")
+   518 ms     | JSONObject.get("settings_version")
+   524 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   525 ms  <= 3
+   526 ms  JSONObject.optInt("settings_version", 0)
+   527 ms     | JSONObject.opt("settings_version")
+   527 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   527 ms  <= 3
+   527 ms  JSONObject.optInt("cache_duration", 3600)
+   528 ms     | JSONObject.opt("cache_duration")
+   528 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   528 ms  <= 193013
+   528 ms  JSONObject.optDouble("on_demand_upload_rate_per_minute", 10)
+   528 ms     | JSONObject.opt("on_demand_upload_rate_per_minute")
+   528 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   530 ms  <= 10
+   530 ms  JSONObject.optDouble("on_demand_backoff_base", 1.2)
+   530 ms     | JSONObject.opt("on_demand_backoff_base")
+   531 ms     | <= "<instance: java.lang.Object, $className: java.lang.Double>"
+   531 ms  <= 1.2
+   532 ms  JSONObject.optInt("on_demand_backoff_step_duration_seconds", 60)
+   532 ms     | JSONObject.opt("on_demand_backoff_step_duration_seconds")
+   532 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   532 ms  <= 60
+   532 ms  JSONObject.has("session")
+   533 ms  <= false
+   533 ms  JSONObject.$init()
+   533 ms  JSONObject.optInt("max_custom_exception_events", 8)
+   533 ms     | JSONObject.opt("max_custom_exception_events")
+   533 ms     | <= null
+   533 ms  <= 8
+   533 ms  JSONObject.getJSONObject("features")
+   534 ms     | JSONObject.get("features")
+   534 ms     | <= "<instance: java.lang.Object, $className: org.json.JSONObject>"
+   534 ms  <= "<instance: org.json.JSONObject>"
+   535 ms  JSONObject.optBoolean("collect_reports", true)
+   535 ms     | JSONObject.opt("collect_reports")
+   536 ms     | <= "<instance: java.lang.Object, $className: java.lang.Boolean>"
+   536 ms  <= true
+   536 ms  JSONObject.optBoolean("collect_anrs", false)
+   536 ms     | JSONObject.opt("collect_anrs")
+   536 ms     | <= "<instance: java.lang.Object, $className: java.lang.Boolean>"
+   537 ms  <= true
+   537 ms  JSONObject.has("expires_at")
+   537 ms  <= true
+   537 ms  JSONObject.optLong("expires_at")
+   537 ms     | JSONObject.optLong("expires_at", "0")
+   537 ms     |    | JSONObject.opt("expires_at")
+   538 ms     |    | <= "<instance: java.lang.Object, $className: java.lang.Long>"
+   538 ms     | <= "1717367265596"
+   539 ms  <= "1717367265596"
+   539 ms  JSONObject.toString()
+   540 ms     | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+   542 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Integer>")
+   542 ms     |    | <= "3"
+   543 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Integer>")
+   543 ms     |    | <= "193013"
+   543 ms     |    | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+   544 ms     |    | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+   544 ms     |    |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Integer>")
+   545 ms     |    |    | <= "2"
+   546 ms     |    |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Integer>")
+   546 ms     |    |    | <= "2"
+   546 ms     |    | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+   547 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Integer>")
+   547 ms     |    | <= "10"
+   547 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Double>")
+   548 ms     |    | <= "1.2"
+   548 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Integer>")
+   548 ms     |    | <= "60"
+   549 ms     |    | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+   549 ms     |    |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Integer>")
+   549 ms     |    |    | <= "1"
+   551 ms     |    |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Integer>")
+   551 ms     |    |    | <= "1800"
+   552 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Long>")
+   552 ms     |    | <= "1717367265596"
+   554 ms  <= "{\"settings_version\":3,\"cache_duration\":193013,\"features\":{\"collect_logged_exceptions\":true,\"collect_reports\":true,\"collect_analytics\":false,\"prompt_enabled\":false,\"push_enabled\":false,\"firebase_crashlytics_enabled\":false,\"collect_anrs\":true,\"collect_metric_kit\":false,\"collect_build_ids\":true},\"app\":{\"status\":\"activated\",\"update_required\":false,\"report_upload_variant\":2,\"native_report_upload_variant\":2},\"fabric\":{\"org_id\":\"504a5614d9479e6b6c000011\",\"bundle_id\":\"com.twitter.android\"},\"on_demand_upload_rate_per_minute\":10,\"on_demand_backoff_base\":1.2,\"on_demand_backoff_step_duration_seconds\":60,\"app_quality\":{\"sessions_enabled\":true,\"sampling_rate\":1,\"session_timeout_seconds\":1800},\"expires_at\":1717367265596}"
+           /* TID 0x69b6 */
+   563 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+   563 ms  JSONObject.optString("Fid", null)
+   564 ms     | JSONObject.opt("Fid")
+   564 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   565 ms  <= "f5hb4LAZQResvkIvpkjysz"
+   565 ms  JSONObject.optInt("Status", 0)
+   565 ms     | JSONObject.opt("Status")
+   566 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   566 ms  <= 3
+   567 ms  JSONObject.optString("AuthToken", null)
+   567 ms     | JSONObject.opt("AuthToken")
+   568 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   569 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+   570 ms  JSONObject.optString("RefreshToken", null)
+   570 ms     | JSONObject.opt("RefreshToken")
+   570 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   571 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+   571 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+   571 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+   571 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   573 ms  <= "1716925715"
+   573 ms  JSONObject.optLong("ExpiresInSecs", "0")
+   573 ms     | JSONObject.opt("ExpiresInSecs")
+   573 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   573 ms  <= "604800"
+   574 ms  JSONObject.optString("FisError", null)
+   574 ms     | JSONObject.opt("FisError")
+   574 ms     | <= null
+   574 ms  <= null
+           /* TID 0x69b8 */
+   584 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+   585 ms  JSONObject.optString("Fid", null)
+   585 ms     | JSONObject.opt("Fid")
+   586 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   586 ms  <= "f5hb4LAZQResvkIvpkjysz"
+   588 ms  JSONObject.optInt("Status", 0)
+   588 ms     | JSONObject.opt("Status")
+   588 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   588 ms  <= 3
+   588 ms  JSONObject.optString("AuthToken", null)
+   588 ms     | JSONObject.opt("AuthToken")
+   589 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   589 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+   589 ms  JSONObject.optString("RefreshToken", null)
+   590 ms     | JSONObject.opt("RefreshToken")
+   590 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   590 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+   591 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+   591 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+   592 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   592 ms  <= "1716925715"
+   592 ms  JSONObject.optLong("ExpiresInSecs", "0")
+   592 ms     | JSONObject.opt("ExpiresInSecs")
+   593 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   593 ms  <= "604800"
+   593 ms  JSONObject.optString("FisError", null)
+   594 ms     | JSONObject.opt("FisError")
+   594 ms     | <= null
+   594 ms  <= null
+           /* TID 0x69b6 */
+   606 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+   607 ms  JSONObject.optString("Fid", null)
+   607 ms     | JSONObject.opt("Fid")
+   607 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   608 ms  <= "f5hb4LAZQResvkIvpkjysz"
+   608 ms  JSONObject.optInt("Status", 0)
+   608 ms     | JSONObject.opt("Status")
+   608 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   609 ms  <= 3
+   609 ms  JSONObject.optString("AuthToken", null)
+   610 ms     | JSONObject.opt("AuthToken")
+   610 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   610 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+   611 ms  JSONObject.optString("RefreshToken", null)
+   611 ms     | JSONObject.opt("RefreshToken")
+   611 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   611 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+   611 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+   612 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+   613 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   613 ms  <= "1716925715"
+   613 ms  JSONObject.optLong("ExpiresInSecs", "0")
+   613 ms     | JSONObject.opt("ExpiresInSecs")
+   614 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   616 ms  <= "604800"
+   616 ms  JSONObject.optString("FisError", null)
+   616 ms     | JSONObject.opt("FisError")
+   616 ms     | <= null
+   616 ms  <= null
+           /* TID 0x69b8 */
+   625 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+   631 ms  JSONObject.optString("Fid", null)
+   631 ms     | JSONObject.opt("Fid")
+   631 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   632 ms  <= "f5hb4LAZQResvkIvpkjysz"
+   632 ms  JSONObject.optInt("Status", 0)
+   632 ms     | JSONObject.opt("Status")
+   633 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   633 ms  <= 3
+   633 ms  JSONObject.optString("AuthToken", null)
+   633 ms     | JSONObject.opt("AuthToken")
+   634 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   634 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+   634 ms  JSONObject.optString("RefreshToken", null)
+   634 ms     | JSONObject.opt("RefreshToken")
+   636 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   637 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+   637 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+   638 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+   638 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   639 ms  <= "1716925715"
+   639 ms  JSONObject.optLong("ExpiresInSecs", "0")
+   640 ms     | JSONObject.opt("ExpiresInSecs")
+   640 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   641 ms  <= "604800"
+   641 ms  JSONObject.optString("FisError", null)
+   641 ms     | JSONObject.opt("FisError")
+   641 ms     | <= null
+   641 ms  <= null
+           /* TID 0x69b1 */
+   662 ms  JSONObject.$init("<instance: java.util.Map, $className: java.util.HashMap>")
+   663 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.Long>")
+   663 ms     | <= "<instance: java.lang.Object, $className: java.lang.Long>"
+   664 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+   664 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   664 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+   664 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   665 ms  JSONObject.toString()
+   665 ms     | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+   665 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Long>")
+   666 ms     |    | <= "1717279100"
+   667 ms  <= "{\"started_at_seconds\":1717279100,\"session_id\":\"665B997C01A70001698A553E97C09754\",\"generator\":\"Crashlytics Android SDK\\/18.2.11\"}"
+   671 ms  JSONObject.$init("<instance: java.util.Map, $className: java.util.HashMap>")
+   671 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+   672 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   672 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+   674 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   676 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+   676 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+           /* TID 0x69b6 */
+   686 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+   687 ms  JSONObject.optString("Fid", null)
+   689 ms     | JSONObject.opt("Fid")
+   689 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   690 ms  <= "f5hb4LAZQResvkIvpkjysz"
+   690 ms  JSONObject.optInt("Status", 0)
+           /* TID 0x69b1 */
+   677 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+   691 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   691 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+   691 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   692 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+           /* TID 0x69b6 */
+   692 ms     | JSONObject.opt("Status")
+   693 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   694 ms  <= 3
+   694 ms  JSONObject.optString("AuthToken", null)
+   695 ms     | JSONObject.opt("AuthToken")
+   695 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   695 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+   695 ms  JSONObject.optString("RefreshToken", null)
+           /* TID 0x69b1 */
+   693 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   696 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.Integer>")
+   696 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+           /* TID 0x69b6 */
+   697 ms     | JSONObject.opt("RefreshToken")
+   697 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   697 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+   697 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+           /* TID 0x69b1 */
+   698 ms  JSONObject.toString()
+   698 ms     | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+   698 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Integer>")
+   699 ms     |    | <= "1"
+   699 ms  <= "{\"development_platform\":\"\",\"version_name\":\"9.61.0-release.0\",\"development_platform_version\":\"\",\"version_code\":\"29610000\",\"app_identifier\":\"com.twitter.android\",\"install_uuid\":\"207d273f4f0847a3adc3946cf4e85001\",\"delivery_mechanism\":1}"
+           /* TID 0x69b6 */
+   700 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+   700 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   701 ms  <= "1716925715"
+   701 ms  JSONObject.optLong("ExpiresInSecs", "0")
+   701 ms     | JSONObject.opt("ExpiresInSecs")
+   702 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   702 ms  <= "604800"
+   703 ms  JSONObject.optString("FisError", null)
+   703 ms     | JSONObject.opt("FisError")
+   703 ms     | <= null
+   705 ms  <= null
+           /* TID 0x69b1 */
+   705 ms  JSONObject.$init("<instance: java.util.Map, $className: java.util.HashMap>")
+   705 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+   707 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   707 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.Boolean>")
+   708 ms     | <= "<instance: java.lang.Object, $className: java.lang.Boolean>"
+   709 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+           /* TID 0x69b8 */
+   713 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+   713 ms  JSONObject.optString("Fid", null)
+   713 ms     | JSONObject.opt("Fid")
+   714 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   714 ms  <= "f5hb4LAZQResvkIvpkjysz"
+   715 ms  JSONObject.optInt("Status", 0)
+           /* TID 0x69b1 */
+   712 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   716 ms  JSONObject.toString()
+   716 ms     | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+   717 ms  <= "{\"build_version\":\"REL\",\"is_rooted\":true,\"version\":\"13\"}"
+           /* TID 0x69b8 */
+   717 ms     | JSONObject.opt("Status")
+   717 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+           /* TID 0x69b1 */
+   725 ms  JSONObject.$init("<instance: java.util.Map, $className: java.util.HashMap>")
+   725 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.Integer>")
+           /* TID 0x69b8 */
+   726 ms  <= 3
+   726 ms  JSONObject.optString("AuthToken", null)
+           /* TID 0x69b1 */
+   727 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   728 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+   729 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   729 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+   729 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   730 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+   730 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   730 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.Integer>")
+   731 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   731 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.Integer>")
+   731 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   731 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.Long>")
+   731 ms     | <= "<instance: java.lang.Object, $className: java.lang.Long>"
+           /* TID 0x69b8 */
+   732 ms     | JSONObject.opt("AuthToken")
+   732 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   734 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+   734 ms  JSONObject.optString("RefreshToken", null)
+   734 ms     | JSONObject.opt("RefreshToken")
+           /* TID 0x69b1 */
+   731 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.Long>")
+   736 ms     | <= "<instance: java.lang.Object, $className: java.lang.Long>"
+   736 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.Boolean>")
+           /* TID 0x69b8 */
+   737 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   738 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+   738 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+           /* TID 0x69b1 */
+   737 ms     | <= "<instance: java.lang.Object, $className: java.lang.Boolean>"
+   739 ms  JSONObject.toString()
+   739 ms     | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+   740 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Integer>")
+   740 ms     |    | <= "4"
+   740 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Integer>")
+   741 ms     |    | <= "7"
+   741 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Integer>")
+   741 ms     |    | <= "2"
+   741 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Long>")
+   742 ms     |    | <= "13228740608"
+   742 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Long>")
+   742 ms     |    | <= "4113887232"
+   744 ms  <= "{\"available_processors\":4,\"build_manufacturer\":\"Genymobile\",\"build_product\":\"vbox86p\",\"build_model\":\"Galaxy S8\",\"arch\":7,\"state\":2,\"disk_space\":13228740608,\"total_ram\":4113887232,\"is_emulator\":false}"
+           /* TID 0x69b8 */
+   744 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+   744 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   744 ms  <= "1716925715"
+   745 ms  JSONObject.optLong("ExpiresInSecs", "0")
+   745 ms     | JSONObject.opt("ExpiresInSecs")
+   745 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   745 ms  <= "604800"
+   745 ms  JSONObject.optString("FisError", null)
+   746 ms     | JSONObject.opt("FisError")
+   746 ms     | <= null
+   746 ms  <= null
+           /* TID 0x69b6 */
+   747 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+   747 ms  JSONObject.optString("Fid", null)
+   748 ms     | JSONObject.opt("Fid")
+   748 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   748 ms  <= "f5hb4LAZQResvkIvpkjysz"
+   748 ms  JSONObject.optInt("Status", 0)
+   749 ms     | JSONObject.opt("Status")
+   749 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   749 ms  <= 3
+   750 ms  JSONObject.optString("AuthToken", null)
+   750 ms     | JSONObject.opt("AuthToken")
+   750 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   751 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+   751 ms  JSONObject.optString("RefreshToken", null)
+   751 ms     | JSONObject.opt("RefreshToken")
+   751 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   752 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+   752 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+   752 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+   752 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   753 ms  <= "1716925715"
+   753 ms  JSONObject.optLong("ExpiresInSecs", "0")
+   753 ms     | JSONObject.opt("ExpiresInSecs")
+   753 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   753 ms  <= "604800"
+   754 ms  JSONObject.optString("FisError", null)
+   754 ms     | JSONObject.opt("FisError")
+   754 ms     | <= null
+   754 ms  <= null
+           /* TID 0x69b1 */
+   755 ms  JSONObject.$init("{\"os_patch_level\":\"2023-05-05\",\"cachedThreadsCount\":\"0\",\"year_class\":\"2015\",\"user_name\":\"Paulie711478020\",\"application_state\":\"JVM Uptime: 0:00:06.826\\nIn Foreground: true\\nForeground Time: 0:00:04.302\\nLast Started Activity:MainActivity\",\"build_info\":\"Git SHA: a8fb687b6fa1ed0bbedabccf986532599a7c5525 Display:vbox86p-userdebug 13 TQ2B.230505.005.A1 250 test-keys Fingerprint:google\\/vbox86p\\/vbox86p:13\\/TQ2B.230505.005.A1\\/250:userdebug\\/test-keys Brand:Samsung Device:vbox86p ID:TQ2B.230505.005.A1 Product:vbox86p Play Services Version: Not Available Developer Preview: false\",\"repositoryCount\":\"0\",\"guest_id\":\"8591820757552615\",\"user_id\":\"1793232993764425728\",\"signature_fingerprints\":\"[40f3166bb567d3144bca7da466bb948b782270ea]\",\"context\":\"fleetline\",\"username\":\"Paulie711478020\",\"verified_user\":\"false\"}")
+   755 ms  JSONObject.keys()
+   756 ms  <= "<instance: java.util.Iterator, $className: java.util.LinkedHashMap$LinkedKeyIterator>"
+   758 ms  JSONObject.isNull("os_patch_level")
+   758 ms  <= false
+   758 ms  JSONObject.optString("os_patch_level", null)
+   759 ms     | JSONObject.opt("os_patch_level")
+   759 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   761 ms  <= "2023-05-05"
+   761 ms  JSONObject.isNull("cachedThreadsCount")
+   761 ms  <= false
+           /* TID 0x69b8 */
+   762 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+   764 ms  JSONObject.optString("Fid", null)
+   765 ms     | JSONObject.opt("Fid")
+   765 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   766 ms  <= "f5hb4LAZQResvkIvpkjysz"
+   766 ms  JSONObject.optInt("Status", 0)
+   766 ms     | JSONObject.opt("Status")
+   766 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   766 ms  <= 3
+   767 ms  JSONObject.optString("AuthToken", null)
+   767 ms     | JSONObject.opt("AuthToken")
+   767 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   767 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+   768 ms  JSONObject.optString("RefreshToken", null)
+   768 ms     | JSONObject.opt("RefreshToken")
+   768 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   768 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+   769 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+   769 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+   770 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   770 ms  <= "1716925715"
+   770 ms  JSONObject.optLong("ExpiresInSecs", "0")
+   770 ms     | JSONObject.opt("ExpiresInSecs")
+   770 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   773 ms  <= "604800"
+   773 ms  JSONObject.optString("FisError", null)
+   773 ms     | JSONObject.opt("FisError")
+   773 ms     | <= null
+   773 ms  <= null
+           /* TID 0x69b1 */
+   773 ms  JSONObject.optString("cachedThreadsCount", null)
+   774 ms     | JSONObject.opt("cachedThreadsCount")
+   774 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   775 ms  <= "0"
+           /* TID 0x69b6 */
+   775 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+   776 ms  JSONObject.optString("Fid", null)
+   776 ms     | JSONObject.opt("Fid")
+   777 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   777 ms  <= "f5hb4LAZQResvkIvpkjysz"
+   777 ms  JSONObject.optInt("Status", 0)
+   777 ms     | JSONObject.opt("Status")
+   778 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   778 ms  <= 3
+   779 ms  JSONObject.optString("AuthToken", null)
+   779 ms     | JSONObject.opt("AuthToken")
+   779 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   780 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+   781 ms  JSONObject.optString("RefreshToken", null)
+   781 ms     | JSONObject.opt("RefreshToken")
+           /* TID 0x69b1 */
+   781 ms  JSONObject.isNull("year_class")
+   781 ms  <= false
+   785 ms  JSONObject.optString("year_class", null)
+   785 ms     | JSONObject.opt("year_class")
+   786 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   786 ms  <= "2015"
+   786 ms  JSONObject.isNull("user_name")
+   786 ms  <= false
+   787 ms  JSONObject.optString("user_name", null)
+           /* TID 0x69b6 */
+   789 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   791 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+   792 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+   792 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+   793 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   793 ms  <= "1716925715"
+   794 ms  JSONObject.optLong("ExpiresInSecs", "0")
+   795 ms     | JSONObject.opt("ExpiresInSecs")
+   795 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   795 ms  <= "604800"
+   795 ms  JSONObject.optString("FisError", null)
+   796 ms     | JSONObject.opt("FisError")
+   797 ms     | <= null
+   797 ms  <= null
+           /* TID 0x69b1 */
+   798 ms     | JSONObject.opt("user_name")
+   798 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   799 ms  <= "Paulie711478020"
+   800 ms  JSONObject.isNull("application_state")
+   800 ms  <= false
+   800 ms  JSONObject.optString("application_state", null)
+   800 ms     | JSONObject.opt("application_state")
+           /* TID 0x69b8 */
+   805 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+   806 ms  JSONObject.optString("Fid", null)
+   806 ms     | JSONObject.opt("Fid")
+   806 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   806 ms  <= "f5hb4LAZQResvkIvpkjysz"
+   808 ms  JSONObject.optInt("Status", 0)
+   808 ms     | JSONObject.opt("Status")
+   809 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   809 ms  <= 3
+   809 ms  JSONObject.optString("AuthToken", null)
+   810 ms     | JSONObject.opt("AuthToken")
+   810 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   811 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+           /* TID 0x69b1 */
+   811 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   811 ms  <= "JVM Uptime: 0:00:06.826\nIn Foreground: true\nForeground Time: 0:00:04.302\nLast Started Activity:MainActivity"
+   812 ms  JSONObject.isNull("build_info")
+   812 ms  <= false
+   813 ms  JSONObject.optString("build_info", null)
+           /* TID 0x69b8 */
+   813 ms  JSONObject.optString("RefreshToken", null)
+   814 ms     | JSONObject.opt("RefreshToken")
+   814 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   814 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+   814 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+   814 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+   814 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+   815 ms  <= "1716925715"
+   816 ms  JSONObject.optLong("ExpiresInSecs", "0")
+   816 ms     | JSONObject.opt("ExpiresInSecs")
+   818 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+           /* TID 0x69b1 */
+   818 ms     | JSONObject.opt("build_info")
+           /* TID 0x69b8 */
+   819 ms  <= "604800"
+   819 ms  JSONObject.optString("FisError", null)
+           /* TID 0x69b1 */
+   818 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   820 ms  <= "Git SHA: a8fb687b6fa1ed0bbedabccf986532599a7c5525 Display:vbox86p-userdebug 13 TQ2B.230505.005.A1 250 test-keys Fingerprint:google/vbox86p/vbox86p:13/TQ2B.230505.005.A1/250:userdebug/test-keys Brand:Samsung Device:vbox86p ID:TQ2B.230505.005.A1 Product:vbox86p Play Services Version: Not Available Developer Preview: false"
+   820 ms  JSONObject.isNull("repositoryCount")
+   820 ms  <= false
+   820 ms  JSONObject.optString("repositoryCount", null)
+   821 ms     | JSONObject.opt("repositoryCount")
+   821 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   821 ms  <= "0"
+   821 ms  JSONObject.isNull("guest_id")
+   821 ms  <= false
+   822 ms  JSONObject.optString("guest_id", null)
+   822 ms     | JSONObject.opt("guest_id")
+   822 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   822 ms  <= "8591820757552615"
+   822 ms  JSONObject.isNull("user_id")
+   823 ms  <= false
+   823 ms  JSONObject.optString("user_id", null)
+           /* TID 0x69b8 */
+   823 ms     | JSONObject.opt("FisError")
+   823 ms     | <= null
+   823 ms  <= null
+           /* TID 0x69b1 */
+   824 ms     | JSONObject.opt("user_id")
+   824 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   825 ms  <= "1793232993764425728"
+   826 ms  JSONObject.isNull("signature_fingerprints")
+   827 ms  <= false
+   827 ms  JSONObject.optString("signature_fingerprints", null)
+   827 ms     | JSONObject.opt("signature_fingerprints")
+   827 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   828 ms  <= "[40f3166bb567d3144bca7da466bb948b782270ea]"
+   828 ms  JSONObject.isNull("context")
+   828 ms  <= false
+   828 ms  JSONObject.optString("context", null)
+   828 ms     | JSONObject.opt("context")
+   829 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   829 ms  <= "fleetline"
+   829 ms  JSONObject.isNull("username")
+   829 ms  <= false
+   829 ms  JSONObject.optString("username", null)
+   830 ms     | JSONObject.opt("username")
+   830 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   830 ms  <= "Paulie711478020"
+   832 ms  JSONObject.isNull("verified_user")
+   832 ms  <= false
+   832 ms  JSONObject.optString("verified_user", null)
+   832 ms     | JSONObject.opt("verified_user")
+   833 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   834 ms  <= "false"
+   836 ms  JSONObject.$init("{\"userId\":\"1793232993764425728\"}")
+   836 ms  JSONObject.isNull("userId")
+   836 ms  <= false
+   837 ms  JSONObject.optString("userId", null)
+   837 ms     | JSONObject.opt("userId")
+   837 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   838 ms  <= "1793232993764425728"
+   841 ms  JSONObject.$init("<instance: java.util.Map, $className: java.util.Collections$UnmodifiableMap>")
+   841 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+   841 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   842 ms  JSONObject.toString()
+   842 ms     | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+   843 ms  <= "{\"username\":\"\"}"
+   915 ms  JSONObject.$init()
+   915 ms  JSONObject.put("userId", "<instance: java.lang.Object, $className: java.lang.String>")
+   916 ms     | JSONObject.checkName("userId")
+   916 ms     | <= "userId"
+   916 ms  <= "<instance: org.json.JSONObject, $className: gtf>"
+   916 ms  JSONObject.toString()
+   917 ms     | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+   917 ms  <= "{\"userId\":\"1793232993764425728\"}"
+   930 ms  JSONObject.$init("<instance: java.util.Map, $className: java.util.Collections$UnmodifiableMap>")
+   930 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+   931 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+   931 ms  JSONObject.toString()
+   931 ms     | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+   932 ms  <= "{\"username\":\"Paulie711478020\"}"
+           /* TID 0x69b6 */
+  1467 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+  1469 ms  JSONObject.optString("Fid", null)
+  1469 ms     | JSONObject.opt("Fid")
+  1469 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  1472 ms  <= "f5hb4LAZQResvkIvpkjysz"
+  1473 ms  JSONObject.optInt("Status", 0)
+  1474 ms     | JSONObject.opt("Status")
+  1474 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+  1475 ms  <= 3
+  1475 ms  JSONObject.optString("AuthToken", null)
+  1476 ms     | JSONObject.opt("AuthToken")
+  1476 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  1476 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+  1476 ms  JSONObject.optString("RefreshToken", null)
+  1478 ms     | JSONObject.opt("RefreshToken")
+  1478 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  1483 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+  1483 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+  1483 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+  1483 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+  1484 ms  <= "1716925715"
+  1484 ms  JSONObject.optLong("ExpiresInSecs", "0")
+  1484 ms     | JSONObject.opt("ExpiresInSecs")
+  1485 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+  1485 ms  <= "604800"
+  1485 ms  JSONObject.optString("FisError", null)
+  1486 ms     | JSONObject.opt("FisError")
+  1486 ms     | <= null
+  1486 ms  <= null
+           /* TID 0x69b8 */
+  1488 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+  1489 ms  JSONObject.optString("Fid", null)
+  1489 ms     | JSONObject.opt("Fid")
+  1489 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  1489 ms  <= "f5hb4LAZQResvkIvpkjysz"
+  1489 ms  JSONObject.optInt("Status", 0)
+  1490 ms     | JSONObject.opt("Status")
+  1490 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+  1490 ms  <= 3
+  1490 ms  JSONObject.optString("AuthToken", null)
+  1490 ms     | JSONObject.opt("AuthToken")
+  1490 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  1490 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+  1490 ms  JSONObject.optString("RefreshToken", null)
+  1490 ms     | JSONObject.opt("RefreshToken")
+  1490 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  1496 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+  1496 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+  1496 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+  1496 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+  1496 ms  <= "1716925715"
+  1496 ms  JSONObject.optLong("ExpiresInSecs", "0")
+  1496 ms     | JSONObject.opt("ExpiresInSecs")
+           /* TID 0x69b1 */
+  1501 ms  JSONObject.$init("<instance: java.util.Map, $className: java.util.Collections$UnmodifiableMap>")
+  1501 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+  1501 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  1501 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+  1502 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  1504 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+  1504 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  1504 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+  1504 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  1504 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+  1504 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  1504 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+  1508 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+           /* TID 0x69b8 */
+  1497 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+  1510 ms  <= "604800"
+  1510 ms  JSONObject.optString("FisError", null)
+  1510 ms     | JSONObject.opt("FisError")
+  1510 ms     | <= null
+  1510 ms  <= null
+           /* TID 0x69b1 */
+  1514 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+  1514 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  1515 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+  1516 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  1518 ms  JSONObject.toString()
+  1518 ms     | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+  1527 ms  <= "{\"os_patch_level\":\"2023-05-05\",\"user_id\":\"1793232993764425728\",\"year_class\":\"2015\",\"user_name\":\"Paulie711478020\",\"signature_fingerprints\":\"[40f3166bb567d3144bca7da466bb948b782270ea]\",\"build_info\":\"Git SHA: a8fb687b6fa1ed0bbedabccf986532599a7c5525 Display:vbox86p-userdebug 13 TQ2B.230505.005.A1 250 test-keys Fingerprint:google\\/vbox86p\\/vbox86p:13\\/TQ2B.230505.005.A1\\/250:userdebug\\/test-keys Brand:Samsung Device:vbox86p ID:TQ2B.230505.005.A1 Product:vbox86p Play Services Version: Not Available Developer Preview: false\",\"username\":\"Paulie711478020\",\"verified_user\":\"false\"}"
+           /* TID 0x69b6 */
+  3786 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+  3786 ms  JSONObject.optString("Fid", null)
+  3787 ms     | JSONObject.opt("Fid")
+  3788 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  3788 ms  <= "f5hb4LAZQResvkIvpkjysz"
+  3801 ms  JSONObject.optInt("Status", 0)
+  3801 ms     | JSONObject.opt("Status")
+  3801 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+  3802 ms  <= 3
+  3802 ms  JSONObject.optString("AuthToken", null)
+  3802 ms     | JSONObject.opt("AuthToken")
+  3802 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  3813 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+  3813 ms  JSONObject.optString("RefreshToken", null)
+  3813 ms     | JSONObject.opt("RefreshToken")
+  3813 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  3819 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+  3819 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+  3819 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+  3828 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+  3834 ms  <= "1716925715"
+  3834 ms  JSONObject.optLong("ExpiresInSecs", "0")
+  3840 ms     | JSONObject.opt("ExpiresInSecs")
+  3840 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+  3842 ms  <= "604800"
+  3842 ms  JSONObject.optString("FisError", null)
+  3842 ms     | JSONObject.opt("FisError")
+  3842 ms     | <= null
+  3842 ms  <= null
+           /* TID 0x69b8 */
+  3846 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+  3847 ms  JSONObject.optString("Fid", null)
+  3847 ms     | JSONObject.opt("Fid")
+  3847 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  3861 ms  <= "f5hb4LAZQResvkIvpkjysz"
+  3861 ms  JSONObject.optInt("Status", 0)
+  3862 ms     | JSONObject.opt("Status")
+  3862 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+  3863 ms  <= 3
+  3867 ms  JSONObject.optString("AuthToken", null)
+  3867 ms     | JSONObject.opt("AuthToken")
+  3868 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  3868 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+  3868 ms  JSONObject.optString("RefreshToken", null)
+  3869 ms     | JSONObject.opt("RefreshToken")
+  3869 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+  3869 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+  3870 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+  3870 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+  3875 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+  3880 ms  <= "1716925715"
+  3882 ms  JSONObject.optLong("ExpiresInSecs", "0")
+  3882 ms     | JSONObject.opt("ExpiresInSecs")
+  3884 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+  3886 ms  <= "604800"
+  3888 ms  JSONObject.optString("FisError", null)
+  3888 ms     | JSONObject.opt("FisError")
+  3888 ms     | <= null
+  3888 ms  <= null
+           /* TID 0x69b2 */
+  4111 ms  JSONObject.$init()
+  4112 ms  JSONObject.$init()
+  4113 ms  JSONObject.put("_o", "<instance: java.lang.Object, $className: java.lang.String>")
+  4113 ms     | JSONObject.checkName("_o")
+  4113 ms     | <= "_o"
+  4113 ms  <= "<instance: org.json.JSONObject>"
+  4114 ms  JSONObject.put("_sc", "<instance: java.lang.Object, $className: java.lang.String>")
+  4115 ms     | JSONObject.checkName("_sc")
+  4116 ms     | <= "_sc"
+  4116 ms  <= "<instance: org.json.JSONObject>"
+  4118 ms  JSONObject.put("_si", "<instance: java.lang.Object, $className: java.lang.Long>")
+  4119 ms     | JSONObject.checkName("_si")
+  4119 ms     | <= "_si"
+  4119 ms  <= "<instance: org.json.JSONObject>"
+  4122 ms  JSONObject.put("name", "<instance: java.lang.Object, $className: java.lang.String>")
+  4123 ms     | JSONObject.checkName("name")
+  4123 ms     | <= "name"
+  4124 ms  <= "<instance: org.json.JSONObject>"
+  4124 ms  JSONObject.put("parameters", "<instance: java.lang.Object, $className: org.json.JSONObject>")
+  4124 ms     | JSONObject.checkName("parameters")
+  4125 ms     | <= "parameters"
+  4125 ms  <= "<instance: org.json.JSONObject>"
+  4127 ms  JSONObject.toString()
+  4127 ms     | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+  4128 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Long>")
+  4128 ms     |    | <= "-266163839031729009"
+  4128 ms  <= "{\"name\":\"_vs\",\"parameters\":{\"_o\":\"auto\",\"_sc\":\"MainActivity\",\"_si\":-266163839031729009}}"
+           /* TID 0x69b1 */
+ 10624 ms  JSONObject.$init("<instance: java.util.Map, $className: java.util.Collections$UnmodifiableMap>")
+ 10625 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+ 10625 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 10628 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+ 10630 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 10630 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+ 10631 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 10631 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+ 10634 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 10635 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+ 10635 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 10636 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+ 10636 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 10639 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+ 10640 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 10640 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+ 10640 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 10640 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+ 10643 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 10643 ms     | JSONObject.wrap("<instance: java.lang.Object, $className: java.lang.String>")
+ 10644 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 10645 ms  JSONObject.toString()
+ 10646 ms     | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+ 10648 ms  <= "{\"os_patch_level\":\"2023-05-05\",\"guest_id\":\"8591820757552615\",\"user_id\":\"1793232993764425728\",\"year_class\":\"2015\",\"user_name\":\"Paulie711478020\",\"signature_fingerprints\":\"[40f3166bb567d3144bca7da466bb948b782270ea]\",\"application_state\":\"JVM Uptime: 0:00:09.923\\nIn Foreground: true\\nForeground Time: 0:00:07.538\\nLast Started Activity:MainActivity\",\"build_info\":\"Git SHA: a8fb687b6fa1ed0bbedabccf986532599a7c5525 Display:vbox86p-userdebug 13 TQ2B.230505.005.A1 250 test-keys Fingerprint:google\\/vbox86p\\/vbox86p:13\\/TQ2B.230505.005.A1\\/250:userdebug\\/test-keys Brand:Samsung Device:vbox86p ID:TQ2B.230505.005.A1 Product:vbox86p Play Services Version: Not Available Developer Preview: false\",\"username\":\"Paulie711478020\",\"verified_user\":\"false\"}"
+           /* TID 0x69b6 */
+ 12895 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+ 12901 ms  JSONObject.optString("Fid", null)
+ 12902 ms     | JSONObject.opt("Fid")
+ 12902 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 12918 ms  <= "f5hb4LAZQResvkIvpkjysz"
+ 12918 ms  JSONObject.optInt("Status", 0)
+ 12918 ms     | JSONObject.opt("Status")
+ 12927 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 12928 ms  <= 3
+ 12928 ms  JSONObject.optString("AuthToken", null)
+ 12928 ms     | JSONObject.opt("AuthToken")
+ 12928 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 12929 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+ 12929 ms  JSONObject.optString("RefreshToken", null)
+ 12930 ms     | JSONObject.opt("RefreshToken")
+ 12930 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 12931 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+ 12931 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+ 12931 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+ 12932 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 12932 ms  <= "1716925715"
+ 12933 ms  JSONObject.optLong("ExpiresInSecs", "0")
+ 12933 ms     | JSONObject.opt("ExpiresInSecs")
+ 12933 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 12933 ms  <= "604800"
+ 12935 ms  JSONObject.optString("FisError", null)
+ 12935 ms     | JSONObject.opt("FisError")
+ 12935 ms     | <= null
+ 12935 ms  <= null
+           /* TID 0x69b8 */
+ 12943 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+ 12943 ms  JSONObject.optString("Fid", null)
+ 12943 ms     | JSONObject.opt("Fid")
+ 12943 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 12943 ms  <= "f5hb4LAZQResvkIvpkjysz"
+ 12943 ms  JSONObject.optInt("Status", 0)
+ 12949 ms     | JSONObject.opt("Status")
+ 12949 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 12950 ms  <= 3
+ 12950 ms  JSONObject.optString("AuthToken", null)
+ 12951 ms     | JSONObject.opt("AuthToken")
+ 12952 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 12953 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+ 12953 ms  JSONObject.optString("RefreshToken", null)
+ 12986 ms     | JSONObject.opt("RefreshToken")
+ 12986 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 12986 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+ 12986 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+ 12987 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+ 12987 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 12987 ms  <= "1716925715"
+ 12987 ms  JSONObject.optLong("ExpiresInSecs", "0")
+ 12987 ms     | JSONObject.opt("ExpiresInSecs")
+ 12987 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 12987 ms  <= "604800"
+ 12987 ms  JSONObject.optString("FisError", null)
+ 12987 ms     | JSONObject.opt("FisError")
+ 12987 ms     | <= null
+ 12987 ms  <= null
+           /* TID 0x69b2 */
+ 13009 ms  JSONObject.$init()
+ 13011 ms  JSONObject.$init()
+ 13030 ms  JSONObject.put("_o", "<instance: java.lang.Object, $className: java.lang.String>")
+ 13030 ms     | JSONObject.checkName("_o")
+ 13030 ms     | <= "_o"
+ 13048 ms  <= "<instance: org.json.JSONObject>"
+ 13051 ms  JSONObject.put("_et", "<instance: java.lang.Object, $className: java.lang.Long>")
+ 13052 ms     | JSONObject.checkName("_et")
+ 13052 ms     | <= "_et"
+ 13052 ms  <= "<instance: org.json.JSONObject>"
+ 13052 ms  JSONObject.put("_sc", "<instance: java.lang.Object, $className: java.lang.String>")
+ 13080 ms     | JSONObject.checkName("_sc")
+ 13080 ms     | <= "_sc"
+ 13081 ms  <= "<instance: org.json.JSONObject>"
+ 13082 ms  JSONObject.put("_si", "<instance: java.lang.Object, $className: java.lang.Long>")
+ 13083 ms     | JSONObject.checkName("_si")
+ 13083 ms     | <= "_si"
+ 13084 ms  <= "<instance: org.json.JSONObject>"
+ 13096 ms  JSONObject.put("name", "<instance: java.lang.Object, $className: java.lang.String>")
+ 13098 ms     | JSONObject.checkName("name")
+ 13098 ms     | <= "name"
+ 13100 ms  <= "<instance: org.json.JSONObject>"
+ 13100 ms  JSONObject.put("parameters", "<instance: java.lang.Object, $className: org.json.JSONObject>")
+ 13101 ms     | JSONObject.checkName("parameters")
+ 13101 ms     | <= "parameters"
+ 13101 ms  <= "<instance: org.json.JSONObject>"
+ 13108 ms  JSONObject.toString()
+ 13110 ms     | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+ 13110 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Long>")
+ 13110 ms     |    | <= "9265"
+ 13113 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Long>")
+ 13113 ms     |    | <= "-266163839031729009"
+ 13113 ms  <= "{\"name\":\"_e\",\"parameters\":{\"_o\":\"auto\",\"_et\":9265,\"_sc\":\"MainActivity\",\"_si\":-266163839031729009}}"
+           /* TID 0x69b6 */
+ 13256 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+ 13260 ms  JSONObject.optString("Fid", null)
+ 13260 ms     | JSONObject.opt("Fid")
+ 13260 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 13263 ms  <= "f5hb4LAZQResvkIvpkjysz"
+ 13263 ms  JSONObject.optInt("Status", 0)
+ 13264 ms     | JSONObject.opt("Status")
+ 13274 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 13275 ms  <= 3
+ 13275 ms  JSONObject.optString("AuthToken", null)
+ 13279 ms     | JSONObject.opt("AuthToken")
+ 13279 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 13284 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+ 13284 ms  JSONObject.optString("RefreshToken", null)
+ 13286 ms     | JSONObject.opt("RefreshToken")
+ 13287 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 13290 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+ 13291 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+ 13291 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+ 13291 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 13292 ms  <= "1716925715"
+ 13292 ms  JSONObject.optLong("ExpiresInSecs", "0")
+ 13292 ms     | JSONObject.opt("ExpiresInSecs")
+ 13292 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 13294 ms  <= "604800"
+ 13295 ms  JSONObject.optString("FisError", null)
+ 13295 ms     | JSONObject.opt("FisError")
+ 13295 ms     | <= null
+ 13295 ms  <= null
+           /* TID 0x69b8 */
+ 13297 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+ 13297 ms  JSONObject.optString("Fid", null)
+ 13297 ms     | JSONObject.opt("Fid")
+ 13301 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 13302 ms  <= "f5hb4LAZQResvkIvpkjysz"
+ 13302 ms  JSONObject.optInt("Status", 0)
+ 13304 ms     | JSONObject.opt("Status")
+ 13304 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 13304 ms  <= 3
+ 13305 ms  JSONObject.optString("AuthToken", null)
+ 13305 ms     | JSONObject.opt("AuthToken")
+ 13305 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 13306 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+ 13306 ms  JSONObject.optString("RefreshToken", null)
+ 13307 ms     | JSONObject.opt("RefreshToken")
+ 13307 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 13310 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+ 13310 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+ 13310 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+ 13310 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 13311 ms  <= "1716925715"
+ 13311 ms  JSONObject.optLong("ExpiresInSecs", "0")
+ 13311 ms     | JSONObject.opt("ExpiresInSecs")
+ 13311 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 13312 ms  <= "604800"
+           /* TID 0x69b2 */
+ 13321 ms  JSONObject.$init()
+ 13323 ms  JSONObject.$init()
+ 13324 ms  JSONObject.put("_o", "<instance: java.lang.Object, $className: java.lang.String>")
+ 13324 ms     | JSONObject.checkName("_o")
+ 13324 ms     | <= "_o"
+           /* TID 0x69b8 */
+ 13326 ms  JSONObject.optString("FisError", null)
+ 13327 ms     | JSONObject.opt("FisError")
+ 13327 ms     | <= null
+ 13327 ms  <= null
+           /* TID 0x69b2 */
+ 13324 ms  <= "<instance: org.json.JSONObject>"
+ 13332 ms  JSONObject.put("_pc", "<instance: java.lang.Object, $className: java.lang.String>")
+ 13333 ms     | JSONObject.checkName("_pc")
+ 13333 ms     | <= "_pc"
+ 13333 ms  <= "<instance: org.json.JSONObject>"
+ 13335 ms  JSONObject.put("_pi", "<instance: java.lang.Object, $className: java.lang.Long>")
+ 13336 ms     | JSONObject.checkName("_pi")
+ 13337 ms     | <= "_pi"
+ 13337 ms  <= "<instance: org.json.JSONObject>"
+ 13338 ms  JSONObject.put("_sc", "<instance: java.lang.Object, $className: java.lang.String>")
+ 13338 ms     | JSONObject.checkName("_sc")
+ 13339 ms     | <= "_sc"
+ 13339 ms  <= "<instance: org.json.JSONObject>"
+ 13339 ms  JSONObject.put("_si", "<instance: java.lang.Object, $className: java.lang.Long>")
+ 13339 ms     | JSONObject.checkName("_si")
+ 13340 ms     | <= "_si"
+ 13340 ms  <= "<instance: org.json.JSONObject>"
+ 13340 ms  JSONObject.put("name", "<instance: java.lang.Object, $className: java.lang.String>")
+ 13340 ms     | JSONObject.checkName("name")
+ 13340 ms     | <= "name"
+ 13341 ms  <= "<instance: org.json.JSONObject>"
+ 13341 ms  JSONObject.put("parameters", "<instance: java.lang.Object, $className: org.json.JSONObject>")
+ 13347 ms     | JSONObject.checkName("parameters")
+ 13347 ms     | <= "parameters"
+ 13347 ms  <= "<instance: org.json.JSONObject>"
+ 13349 ms  JSONObject.toString()
+ 13350 ms     | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+ 13352 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Long>")
+ 13352 ms     |    | <= "-266163839031729009"
+ 13353 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Long>")
+ 13354 ms     |    | <= "-266163839031729008"
+ 13355 ms  <= "{\"name\":\"_vs\",\"parameters\":{\"_o\":\"auto\",\"_pc\":\"MainActivity\",\"_pi\":-266163839031729009,\"_sc\":\"TweetDetailActivity\",\"_si\":-266163839031729008}}"
+           /* TID 0x69b6 */
+ 20368 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+ 20369 ms  JSONObject.optString("Fid", null)
+ 20369 ms     | JSONObject.opt("Fid")
+ 20370 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 20370 ms  <= "f5hb4LAZQResvkIvpkjysz"
+ 20371 ms  JSONObject.optInt("Status", 0)
+ 20371 ms     | JSONObject.opt("Status")
+ 20371 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 20372 ms  <= 3
+ 20372 ms  JSONObject.optString("AuthToken", null)
+ 20372 ms     | JSONObject.opt("AuthToken")
+ 20373 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 20379 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+ 20379 ms  JSONObject.optString("RefreshToken", null)
+ 20379 ms     | JSONObject.opt("RefreshToken")
+ 20379 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 20380 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+ 20380 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+ 20380 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+ 20382 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 20382 ms  <= "1716925715"
+ 20383 ms  JSONObject.optLong("ExpiresInSecs", "0")
+ 20383 ms     | JSONObject.opt("ExpiresInSecs")
+ 20383 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 20383 ms  <= "604800"
+ 20384 ms  JSONObject.optString("FisError", null)
+ 20384 ms     | JSONObject.opt("FisError")
+ 20384 ms     | <= null
+ 20384 ms  <= null
+           /* TID 0x69b8 */
+ 20387 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+ 20388 ms  JSONObject.optString("Fid", null)
+ 20388 ms     | JSONObject.opt("Fid")
+ 20389 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 20389 ms  <= "f5hb4LAZQResvkIvpkjysz"
+ 20389 ms  JSONObject.optInt("Status", 0)
+ 20389 ms     | JSONObject.opt("Status")
+ 20390 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 20391 ms  <= 3
+ 20391 ms  JSONObject.optString("AuthToken", null)
+ 20392 ms     | JSONObject.opt("AuthToken")
+ 20392 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 20393 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+ 20393 ms  JSONObject.optString("RefreshToken", null)
+ 20393 ms     | JSONObject.opt("RefreshToken")
+ 20393 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 20394 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+ 20394 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+ 20394 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+           /* TID 0x69b2 */
+ 20398 ms  JSONObject.$init()
+           /* TID 0x69b8 */
+ 20399 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 20400 ms  <= "1716925715"
+ 20400 ms  JSONObject.optLong("ExpiresInSecs", "0")
+ 20400 ms     | JSONObject.opt("ExpiresInSecs")
+ 20401 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 20401 ms  <= "604800"
+ 20401 ms  JSONObject.optString("FisError", null)
+ 20402 ms     | JSONObject.opt("FisError")
+ 20402 ms     | <= null
+ 20403 ms  <= null
+           /* TID 0x69b2 */
+ 20403 ms  JSONObject.$init()
+ 20404 ms  JSONObject.put("_o", "<instance: java.lang.Object, $className: java.lang.String>")
+ 20405 ms     | JSONObject.checkName("_o")
+ 20405 ms     | <= "_o"
+ 20406 ms  <= "<instance: org.json.JSONObject>"
+ 20408 ms  JSONObject.put("_et", "<instance: java.lang.Object, $className: java.lang.Long>")
+ 20408 ms     | JSONObject.checkName("_et")
+ 20408 ms     | <= "_et"
+ 20409 ms  <= "<instance: org.json.JSONObject>"
+ 20410 ms  JSONObject.put("_sc", "<instance: java.lang.Object, $className: java.lang.String>")
+ 20411 ms     | JSONObject.checkName("_sc")
+ 20411 ms     | <= "_sc"
+ 20411 ms  <= "<instance: org.json.JSONObject>"
+ 20412 ms  JSONObject.put("_si", "<instance: java.lang.Object, $className: java.lang.Long>")
+ 20413 ms     | JSONObject.checkName("_si")
+ 20413 ms     | <= "_si"
+ 20414 ms  <= "<instance: org.json.JSONObject>"
+ 20415 ms  JSONObject.put("name", "<instance: java.lang.Object, $className: java.lang.String>")
+ 20417 ms     | JSONObject.checkName("name")
+ 20417 ms     | <= "name"
+ 20417 ms  <= "<instance: org.json.JSONObject>"
+ 20418 ms  JSONObject.put("parameters", "<instance: java.lang.Object, $className: org.json.JSONObject>")
+ 20419 ms     | JSONObject.checkName("parameters")
+ 20419 ms     | <= "parameters"
+ 20423 ms  <= "<instance: org.json.JSONObject>"
+ 20425 ms  JSONObject.toString()
+ 20425 ms     | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+ 20425 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Long>")
+ 20425 ms     |    | <= "7155"
+ 20425 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Long>")
+ 20426 ms     |    | <= "-266163839031729008"
+ 20426 ms  <= "{\"name\":\"_e\",\"parameters\":{\"_o\":\"auto\",\"_et\":7155,\"_sc\":\"TweetDetailActivity\",\"_si\":-266163839031729008}}"
+           /* TID 0x69b6 */
+ 20546 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+ 20547 ms  JSONObject.optString("Fid", null)
+ 20548 ms     | JSONObject.opt("Fid")
+ 20548 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 20548 ms  <= "f5hb4LAZQResvkIvpkjysz"
+ 20549 ms  JSONObject.optInt("Status", 0)
+ 20549 ms     | JSONObject.opt("Status")
+ 20549 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 20549 ms  <= 3
+ 20549 ms  JSONObject.optString("AuthToken", null)
+ 20549 ms     | JSONObject.opt("AuthToken")
+ 20550 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 20551 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+ 20551 ms  JSONObject.optString("RefreshToken", null)
+ 20551 ms     | JSONObject.opt("RefreshToken")
+ 20551 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 20552 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+ 20552 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+ 20552 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+ 20552 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 20552 ms  <= "1716925715"
+ 20553 ms  JSONObject.optLong("ExpiresInSecs", "0")
+ 20553 ms     | JSONObject.opt("ExpiresInSecs")
+ 20553 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 20554 ms  <= "604800"
+ 20554 ms  JSONObject.optString("FisError", null)
+ 20554 ms     | JSONObject.opt("FisError")
+ 20554 ms     | <= null
+ 20555 ms  <= null
+           /* TID 0x69b8 */
+ 20556 ms  JSONObject.$init("{\"Fid\":\"f5hb4LAZQResvkIvpkjysz\",\"Status\":3,\"AuthToken\":\"eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g\",\"RefreshToken\":\"3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I\",\"TokenCreationEpochInSecs\":1716925715,\"ExpiresInSecs\":604800}")
+ 20559 ms  JSONObject.optString("Fid", null)
+ 20559 ms     | JSONObject.opt("Fid")
+ 20560 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 20560 ms  <= "f5hb4LAZQResvkIvpkjysz"
+ 20561 ms  JSONObject.optInt("Status", 0)
+ 20561 ms     | JSONObject.opt("Status")
+ 20562 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 20562 ms  <= 3
+           /* TID 0x69b2 */
+ 20562 ms  JSONObject.$init()
+ 20564 ms  JSONObject.$init()
+ 20566 ms  JSONObject.put("_o", "<instance: java.lang.Object, $className: java.lang.String>")
+ 20567 ms     | JSONObject.checkName("_o")
+ 20568 ms     | <= "_o"
+ 20568 ms  <= "<instance: org.json.JSONObject>"
+ 20568 ms  JSONObject.put("_pc", "<instance: java.lang.Object, $className: java.lang.String>")
+ 20569 ms     | JSONObject.checkName("_pc")
+ 20569 ms     | <= "_pc"
+ 20571 ms  <= "<instance: org.json.JSONObject>"
+ 20572 ms  JSONObject.put("_pi", "<instance: java.lang.Object, $className: java.lang.Long>")
+           /* TID 0x69b8 */
+ 20573 ms  JSONObject.optString("AuthToken", null)
+ 20573 ms     | JSONObject.opt("AuthToken")
+ 20574 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 20574 ms  <= "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDk2MjUwNTIwNDE6YW5kcm9pZDpjYzVmNmFmNDk4N2U1YzAyIiwiZXhwIjoxNzE3NTMwNTE2LCJmaWQiOiJmNWhiNExBWlFSZXN2a0l2cGtqeXN6IiwicHJvamVjdE51bWJlciI6NDk2MjUwNTIwNDF9.AB2LPV8wRQIgJOazGrCzcvNGfqw-9gK21xD773LFzyVP8GSx5vYz4c4CIQDBUtta86Ft-8tks0E0-PtGPJc1rL791H1uaf2EUqiI3g"
+ 20574 ms  JSONObject.optString("RefreshToken", null)
+ 20575 ms     | JSONObject.opt("RefreshToken")
+           /* TID 0x69b2 */
+ 20575 ms     | JSONObject.checkName("_pi")
+ 20575 ms     | <= "_pi"
+           /* TID 0x69b8 */
+ 20577 ms     | <= "<instance: java.lang.Object, $className: java.lang.String>"
+ 20577 ms  <= "3_AS3qfwIX5TNFstg_jUdWVfqY8LMiQ7aBSIeNBw7b1TRSuIwM4uUdCp0ohL_xkOU_76q23C4bzDymJZ5EIV_jmTCM9LtTbBEuaF1chaMoct8Kl-I"
+ 20577 ms  JSONObject.optLong("TokenCreationEpochInSecs", "0")
+ 20578 ms     | JSONObject.opt("TokenCreationEpochInSecs")
+ 20581 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 20581 ms  <= "1716925715"
+ 20582 ms  JSONObject.optLong("ExpiresInSecs", "0")
+ 20582 ms     | JSONObject.opt("ExpiresInSecs")
+           /* TID 0x69b2 */
+ 20582 ms  <= "<instance: org.json.JSONObject>"
+ 20585 ms  JSONObject.put("_sc", "<instance: java.lang.Object, $className: java.lang.String>")
+           /* TID 0x69b8 */
+ 20587 ms     | <= "<instance: java.lang.Object, $className: java.lang.Integer>"
+ 20587 ms  <= "604800"
+ 20587 ms  JSONObject.optString("FisError", null)
+ 20587 ms     | JSONObject.opt("FisError")
+ 20587 ms     | <= null
+ 20587 ms  <= null
+           /* TID 0x69b2 */
+ 20589 ms     | JSONObject.checkName("_sc")
+ 20590 ms     | <= "_sc"
+ 20591 ms  <= "<instance: org.json.JSONObject>"
+ 20591 ms  JSONObject.put("_si", "<instance: java.lang.Object, $className: java.lang.Long>")
+ 20592 ms     | JSONObject.checkName("_si")
+ 20592 ms     | <= "_si"
+ 20592 ms  <= "<instance: org.json.JSONObject>"
+ 20595 ms  JSONObject.put("name", "<instance: java.lang.Object, $className: java.lang.String>")
+ 20597 ms     | JSONObject.checkName("name")
+ 20598 ms     | <= "name"
+ 20598 ms  <= "<instance: org.json.JSONObject>"
+ 20598 ms  JSONObject.put("parameters", "<instance: java.lang.Object, $className: org.json.JSONObject>")
+ 20600 ms     | JSONObject.checkName("parameters")
+ 20604 ms     | <= "parameters"
+ 20604 ms  <= "<instance: org.json.JSONObject>"
+ 20614 ms  JSONObject.toString()
+ 20621 ms     | JSONObject.writeTo("<instance: org.json.JSONStringer>")
+ 20624 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Long>")
+ 20627 ms     |    | <= "-266163839031729008"
+ 20630 ms     |    | JSONObject.numberToString("<instance: java.lang.Number, $className: java.lang.Long>")
+ 20630 ms     |    | <= "-266163839031729007"
+ 20631 ms  <= "{\"name\":\"_vs\",\"parameters\":{\"_o\":\"auto\",\"_pc\":\"TweetDetailActivity\",\"_pi\":-266163839031729008,\"_sc\":\"TweetDetailActivity\",\"_si\":-266163839031729007}}"
